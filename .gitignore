@@ -1,4 +1,4 @@
-/src
-/include
+include
+src
 test.c
 test.exe
