@@ -3,3 +3,4 @@ src/
 test.c
 test.exe
 include/SeqLish.h
+.idea
