@@ -2,3 +2,4 @@ include/
 src/
 test.c
 test.exe
+include/SeqLish.h
