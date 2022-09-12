@@ -30,5 +30,13 @@
   ],
   "C_Cpp.intelliSenseEngineFallback": "Enabled",
   "editor.experimental.stickyScroll.enabled": true,
-  "commentTranslate.hover.enabled": true
+  "commentTranslate.hover.enabled": true,
+  "editor.cursorStyle":"block",
+  "editor.cursorBlinking":"smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "files.associations": {
+    "*.tcc": "cpp",
+    "exception": "cpp",
+    "stack": "cpp"
+  },
 }
