@@ -28,7 +28,7 @@ tree build(char a[], char b[], int s, int e)
                 break;
         }
         pos++; //后移找下一个
-        //递归生成
+        //递归生成 注意区间
         root->lchild = build(a, b, s, i - 1);
         root->rchild = build(a, b, i + 1, e);
         return root;
