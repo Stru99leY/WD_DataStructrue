@@ -37,6 +37,10 @@
   "files.associations": {
     "*.tcc": "cpp",
     "exception": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "chrono": "cpp",
+    "random": "cpp",
+    "limits": "cpp",
+    "valarray": "cpp"
   },
 }
