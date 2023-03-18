@@ -4,3 +4,4 @@ test.c
 test.exe
 include/SeqLish.h
 .idea
+.exe
